@@ -1,0 +1,7 @@
+.unitwrapper{width: 500px; margin: 0 auto; text-align: center;}
+.unitbox{display: flex; justify-content: center; align-items: center; gap: 20px;}
+.unitbox .leftsec{display: flex; flex-direction: column;}
+.unitbox .rightsec{display: flex; flex-direction: column;}
+.unitbox input{border: 1px solid #dadce0; outline: none; padding: 10px; font-size: 20px; text-align: center; color: #1f1f1f;}
+.unitbox select{border: 1px solid #dadce0; outline: none; padding: 5px;}
+.unitbox input { user-select: all; }
