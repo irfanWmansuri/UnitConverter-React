@@ -1,4 +1,6 @@
 .unitwrapper{width: 500px; margin: 0 auto; text-align: center;}
+.unitwrapper p{font-size: 20px; font-weight: 500; color: #1f1f1f;}
+.unitwrapper p span{font-size: 20px; color: red;}
 .unitbox{display: flex; justify-content: center; align-items: center; gap: 20px;}
 .unitbox .leftsec{display: flex; flex-direction: column;}
 .unitbox .rightsec{display: flex; flex-direction: column;}
